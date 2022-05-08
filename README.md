@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcasse
-- 👀 I’m interested in backend and machine learning
-- 🌱 I’m currently learning about os kernels
-- 💞️ I’m looking to collaborate on workflow frameworks
+- 👀 I’m interested in software development, AI and robotics
+- 🌱 I’m currently learning about
+- 💞️ I’m looking to collaborate on
 - 📫 You can reach me at jcasse@gmail.com
 
 <!---
